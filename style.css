@@ -1,0 +1,26 @@
+body {
+    background-color: lightgreen;
+}
+
+.header,
+.ulist,
+#comeBrazil,
+li
+ {
+     color: black;
+    text-align: center;
+}
+
+.ulist{
+    line-height: 100%;
+    list-style-position: inside;
+    list-style-type:square;
+}
+
+#alien {
+    
+}
+
+.image {
+    text-align: center;
+}
